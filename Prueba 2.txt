@@ -1,0 +1,3 @@
+Segundo archivo de texto.
+Otra línea del segundo archivo de texto.
+Tercera línea del segundo archivo.
